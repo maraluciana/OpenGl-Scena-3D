@@ -1,0 +1,17 @@
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  07_03_ex2.cpp
+C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Proiect3D\07_03_ex2.cpp(18,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Proiect3D\07_03_ex2.cpp(52,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Proiect3D\07_03_ex2.cpp(55,12): warning C4305: '-=': truncation from 'double' to 'float'
+  Proiect3D.vcxproj -> C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Debug\Proiect3D.exe
+  0 File(s) copied
+  0 File(s) copied

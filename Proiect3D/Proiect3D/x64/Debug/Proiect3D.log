@@ -1,0 +1,23 @@
+﻿  C:freeglut.dll
+  C:glew32.dll
+  C:glew32s.dll
+  3 File(s) copied
+  C:glfw3.dll
+  C:glfw3dll.dll
+  C:glfw3_mt.dll
+  3 File(s) copied
+  C:SOIL.dll
+  1 File(s) copied
+  glm.cpp
+  main.cpp
+  imageloader.cpp
+  loadShaders.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Proiect3D.vcxproj -> C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\x64\Debug\Proiect3D.exe
+  C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Proiect3D\lib\x64\GL\DLLs\freeglut.dll
+  C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Proiect3D\lib\x64\GL\DLLs\glew32.dll
+  2 File(s) copied
+  C:\Users\Mara\Desktop\Facultate anu 3\Grafica\Proiect-final\Proiect3D\Proiect3D\lib\x64\GLFW\DLLs\glfw3.dll
+  1 File(s) copied
